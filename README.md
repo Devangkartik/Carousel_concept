@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+
+- First we create a state variable Its a way in React to initilized variable dynamically Its works diifferet compare to normal variable,
+- Then we Know How to use Props inside our app
+- Then we create a data variable which contains the array of image (Array is a objet inside javascript)
+- After then WE create a Previous and next Button, Between These buttons Render the Image
+- For rendering all images we use map function inside its 
+- We Learn How to write a logic in Classname={"bg-green" + (logic)}
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
